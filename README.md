@@ -1,6 +1,6 @@
 # System Control Center Pro
 
-A real-time system monitoring dashboard inspired by Task Manager and ASUS Armoury Crate.
+A real-time system monitoring dashboard inspired by Task Manager.
 
 ## Features
 - CPU, RAM, Disk monitoring
